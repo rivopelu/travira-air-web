@@ -5,15 +5,16 @@
 <a href='https://vercel.com/' target="_blank"><img alt='vercel' src='https://img.shields.io/badge/Vercel-100000?style=plastic&logo=vercel&logoColor=white&labelColor=black&color=1A6BF7'/></a>
 </div>
 
-## [Demo App](https://2rims-travel-web.vercel.app/)
+## [Demo App](https://travira-air-web.vercel.app/)
 
 ##  design 
  Ui/Ux design and Poster by Hazar from Codelillah
 
 - [Official Web](https://codelillah.com/)
 - [Instaggram](https://www.instagram.com/codelillah/)
+- [Dribble](https://dribbble.com/shots/18364391-Travira-Air-Airline)
 
-
+![alt text](https://media-exp2.licdn.com/dms/image/C4D22AQGXHc_5J99siA/feedshare-shrink_800/0/1654680691354?e=1657756800&v=beta&t=2rWaVCGb187i7iz2vAxHRJCE8sFAet7p8vXC3aYzH_A)
 
 ## Dependencies
 ```Js
