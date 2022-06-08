@@ -6,4 +6,5 @@ import TestiPage from "./TestiPage";
 import FleetPage from "./FleetPage";
 import ContactCard from "./ContactCard";
 import FooterPage from "./FooterPage";
-export { NavbarPage, FooterPage, ContactCard, HomePage, TestiPage, AboutPage, SafetyPage, FleetPage }
+import MobilePage from "./MobilePage";
+export { NavbarPage, MobilePage, FooterPage, ContactCard, HomePage, TestiPage, AboutPage, SafetyPage, FleetPage }
